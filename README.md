@@ -48,3 +48,6 @@ $ ./average input/<file>.in
 Siendo <file> alguno de los nombres de archivo dentro de la carpeta input. Asegurate que el valor de
 los promedios que se imprimen en pantalla sean correctos y animate a definir tus propios casos de
 input.  
+
+## Materia: Algoritmos y estructura de datos 2
+## Integrantes: Alejandro Spitale, Agustin Silva
